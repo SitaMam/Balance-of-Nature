@@ -1,16 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+    <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+    
+    <url>
+        <loc>https://perfect-lyrics.vercel.app/</loc>
+        <lastmod>2023-04-21T00:32:45+00:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://perfect-lyrics.vercel.app/zaroori-tha-lyrics/</loc>
+        <lastmod>2023-04-21T00:32:45+00:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://perfect-lyrics.vercel.app/ek-pyar-ka-nagma-hai-lyrics/</loc>
+        <lastmod>2023-04-21T00:32:45+00:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://perfect-lyrics.vercel.app/khamoshiyan-lyrics/</loc>
+        <lastmod>2023-04-21T00:32:45+00:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://perfect-lyrics.vercel.app/soch-na-sake-lyrics/</loc>
+        <lastmod>2023-04-21T00:32:45+00:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://perfect-lyrics.vercel.app/mile-ho-tum-humko-lyrics/</loc>
+        <lastmod>2023-04-21T00:32:45+00:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://perfect-lyrics.vercel.app/tere-sang-yaara-lyrics/</loc>
+        <lastmod>2023-04-21T00:32:45+00:00</lastmod>
+    </url>
 
+    <url>
+        <loc>https://perfect-lyrics.vercel.app/mera-mulk-mera-desh-lyrics/</loc>
+        <lastmod>2023-04-21T00:32:45+00:00</lastmod>
+    </url>
 
-<url>
-  <loc>https://perfect-lyrics.vercel.app/</loc>
-  <lastmod>2023-04-21T00:32:45+00:00</lastmod>
-</url>
+    <url>
+        <loc>https://perfect-lyrics.vercel.app/kina-chir-lyrics/</loc>
+        <lastmod>2023-04-21T00:32:45+00:00</lastmod>
+    </url>
+
+    <url>
+        <loc>https://perfect-lyrics.vercel.app/meri-bheegi-bheegi-si-lyrics/</loc>
+        <lastmod>2023-04-21T00:32:45+00:00</lastmod>
+    </url>
+
+    <url>
+        <loc>https://perfect-lyrics.vercel.app/kali-kali-zulfon-lyrics/</loc>
+        <lastmod>2023-
+
 
 
 </urlset>

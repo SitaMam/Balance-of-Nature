@@ -10,10 +10,71 @@ export default function handler(req, res) {
     const xml = `<?xml version="1.0" encoding="UTF-8"?>
     <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> 
     <url>
-      <loc>http://www.example.com/foo.html</loc>
-      <lastmod>2021-01-01</lastmod>
-    </url>
-    </urlset>`
+  <loc>https://perfect-lyrics.vercel.app/zaroori-tha-lyrics/</loc>
+  <lastmod>2023-04-29</lastmod>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://perfect-lyrics.vercel.app/ek-pyar-ka-nagma-hai-lyrics/</loc>
+  <lastmod>2023-04-29</lastmod>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://perfect-lyrics.vercel.app/khamoshiyan-lyrics/</loc>
+  <lastmod>2023-04-29</lastmod>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://perfect-lyrics.vercel.app/soch-na-sake-lyrics/</loc>
+  <lastmod>2023-04-29</lastmod>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://perfect-lyrics.vercel.app/mile-ho-tum-humko-lyrics/</loc>
+  <lastmod>2023-04-29</lastmod>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://perfect-lyrics.vercel.app/tere-sang-yaara-lyrics/</loc>
+  <lastmod>2023-04-29</lastmod>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://perfect-lyrics.vercel.app/mera-mulk-mera-desh-lyrics/</loc>
+  <lastmod>2023-04-29</lastmod>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://perfect-lyrics.vercel.app/kina-chir-lyrics/</loc>
+  <lastmod>2023-04-29</lastmod>
+  <priority>0.5</priority>
+</url> 
+<url>
+  <loc>https://perfect-lyrics.vercel.app/meri-bheegi-bheegi-si-lyrics/</loc>
+  <lastmod>2023-04-29</lastmod>
+  <priority>0.5</priority>
+</url> 
+<url>
+  <loc>https://perfect-lyrics.vercel.app/kali-kali-zulfon-lyrics/</loc>
+  <lastmod>2023-04-29</lastmod>
+  <priority>0.5</priority>
+</url> 
+<url>
+  <loc>https://perfect-lyrics.vercel.app/teri-aashiqui-ne-mara-2-0-lyrics/</loc>
+  <lastmod>2023-04-29</lastmod>
+  <priority>0.5</priority>
+</url> 
+<url>
+  <loc>https://perfect-lyrics.vercel.app/kaise-hua-lyrics/</loc>
+  <lastmod>2023-04-29</lastmod>
+  <priority>0.5</priority>
+</url>  
+<url>
+  <loc>https://perfect-lyrics.vercel.app/pasoori-lyrics-in-hindi/</loc>
+  <lastmod>2023-04-29</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.8</priority>
+</url>`
 
   res.end(xml)
 }

@@ -20,8 +20,8 @@ const Home: NextPage = () => {
         </h1>
 
         <p className={styles.description}>
-          Get started by editing{' '}
-          <code className={styles.code}>pages/index.tsx</code>
+          If You Want to Check The Current EGG Rate Visit Now{' '}
+          <code className={styles.code}>Welcome to <a href="https://www.eggpricetracker.com/">EGG PRice Tracker</a></code>
         </p>
 
         <div className={styles.grid}>

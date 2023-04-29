@@ -186,6 +186,86 @@ export default function handler(req, res) {
   <lastmod>2023-04-29</lastmod>
   <priority>0.5</priority>
 </url>
+<url>
+  <loc>https://perfect-lyrics.vercel.app/tere-bin-lyrics/</loc>
+  <lastmod>2023-04-29</lastmod>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://perfect-lyrics.vercel.app/mere-banke-bihari-lal-lyrics/</loc>
+  <lastmod>2023-04-29</lastmod>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://perfect-lyrics.vercel.app/mangal-bhavan-amangal-hari-lyrics/</loc>
+  <lastmod>2023-04-29</lastmod>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://perfect-lyrics.vercel.app/ram-stuti-lyrics/</loc>
+  <lastmod>2023-04-29</lastmod>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://perfect-lyrics.vercel.app/aap-ki-nazron-ne-samjha-lyrics/</loc>
+  <lastmod>2023-04-29</lastmod>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://perfect-lyrics.vercel.app/jab-koi-baat-bigad-jaye-lyrics/</loc>
+  <lastmod>2023-04-29</lastmod>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://perfect-lyrics.vercel.app/tum-prem-ho-tum-preet-ho-lyrics/</loc>
+  <lastmod>2023-04-29</lastmod>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://perfect-lyrics.vercel.app/tum-mile-dil-khile-lyrics/</loc>
+  <lastmod>2023-04-29</lastmod>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://perfect-lyrics.vercel.app/chaand-raaton-meinn-2-0-lyrics/</loc>
+  <lastmod>2023-04-29</lastmod>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://perfect-lyrics.vercel.app/zara-zara-lyrics/</loc>
+  <lastmod>2023-04-29</lastmod>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://perfect-lyrics.vercel.app/hua-hai-aaj-pehli-baar-lyrics/</loc>
+  <lastmod>2023-04-29</lastmod>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://perfect-lyrics.vercel.app/tujhse-naraz-nahi-zindagi-lyrics/</loc>
+  <lastmod>2023-04-29</lastmod>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://perfect-lyrics.vercel.app/dil-ka-dariya-lyrics/</loc>
+  <lastmod>2023-04-29</lastmod>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://perfect-lyrics.vercel.app/yeh-raatein-yeh-mausam-lyrics/</loc>
+  <lastmod>2023-04-29</lastmod>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://perfect-lyrics.vercel.app/yeh-dosti-hum-nahi-todenge-lyrics/</loc>
+  <lastmod>2023-04-29</lastmod>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://perfect-lyrics.vercel.app/ek-tu-hi-yaar-mera-lyrics/</loc>
+  <lastmod>2023-04-29</lastmod>
+  <priority>0.5</priority>
+</url>
 </urlset>`
 
   res.end(xml)

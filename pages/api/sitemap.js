@@ -72,7 +72,6 @@ export default function handler(req, res) {
 <url>
   <loc>https://perfect-lyrics.vercel.app/pasoori-lyrics-in-hindi/</loc>
   <lastmod>2023-04-29</lastmod>
-  <changefreq>weekly</changefreq>
   <priority>0.5</priority>
 </url>`
 

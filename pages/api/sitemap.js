@@ -74,6 +74,61 @@ export default function handler(req, res) {
   <lastmod>2023-04-29</lastmod>
   <priority>0.5</priority>
 </url>
+<url>
+   <loc>https://perfect-lyrics.vercel.app/achyutam-keshavam-lyrics/</loc>
+   <lastmod>2023-04-29</lastmod>
+   <priority>0.5</priority>
+</url>
+<url>
+   <loc>https://perfect-lyrics.vercel.app/lag-ja-gale-lyrics/</loc>
+   <lastmod>2023-04-29</lastmod>
+   <priority>0.5</priority>
+</url>
+<url>
+   <loc>https://perfect-lyrics.vercel.app/lingashtakam-lyrics/</loc>
+   <lastmod>2023-04-29</lastmod>
+   <priority>0.5</priority>
+</url>
+<url>
+   <loc>https://perfect-lyrics.vercel.app/sare-jahan-se-acha-lyrics/</loc>
+   <lastmod>2023-04-29</lastmod>
+   <priority>0.5</priority>
+</url>
+<url>
+   <loc>https://perfect-lyrics.vercel.app/tera-mujhse-hai-pehle-ka-naata-koi-hindi-lyrics/</loc>
+   <lastmod>2023-04-29</lastmod>
+   <priority>0.5</priority>
+</url>
+<url>
+   <loc>https://perfect-lyrics.vercel.app/brown-munde-lyrics/</loc>
+   <lastmod>2023-04-29</lastmod>
+   <priority>0.5</priority>
+</url>
+<url>
+   <loc>https://perfect-lyrics.vercel.app/e-mere-watan-ke-logo-lyrics/</loc>
+   <lastmod>2023-04-29</lastmod>
+   <priority>0.5</priority>
+</url>
+<url>
+   <loc>https://perfect-lyrics.vercel.app/deewane-hum-nahi-hote-lyrics/</loc>
+   <lastmod>2023-04-29</lastmod>
+   <priority>0.5</priority>
+</url>
+<url>
+   <loc>https://perfect-lyrics.vercel.app/let-me-down-slowly-lyrics/</loc>
+   <lastmod>2023-04-29</lastmod>
+   <priority>0.5</priority>
+</url>
+<url>
+   <loc>https://perfect-lyrics.vercel.app/tum-hi-ho-lyrics/</loc>
+   <lastmod>2023-04-29</lastmod>
+   <priority>0.5</priority>
+</url>
+<url>
+   <loc>https://perfect-lyrics.vercel.app/manike-mage-hithe-lyrics/</loc>
+   <lastmod>2023-04-29</lastmod>
+   <priority>0.5</priority>
+</url>
 </urlset>`
 
   res.end(xml)

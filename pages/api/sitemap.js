@@ -129,6 +129,63 @@ export default function handler(req, res) {
    <lastmod>2023-04-29</lastmod>
    <priority>0.5</priority>
 </url>
+<url>
+  <loc>https://perfect-lyrics.vercel.app/ghar-more-pardesiya-lyrics/</loc>
+  <lastmod>2023-04-29</lastmod>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://perfect-lyrics.vercel.app/hum-honge-kamyab-lyrics/</loc>
+  <lastmod>2023-04-29</lastmod>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://perfect-lyrics.vercel.app/teri-mitti-lyrics/</loc>
+  <lastmod>2023-04-29</lastmod>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://perfect-lyrics.vercel.app/aigiri-nandini-lyrics/</loc>
+  <lastmod>2023-04-29</lastmod>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://perfect-lyrics.vercel.app/tu-kitni-achhi-hai-lyrics/</loc>
+  <lastmod>2023-04-29</lastmod>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://perfect-lyrics.vercel.app/pal-pal-dil-ke-paas-lyrics/</loc>
+  <lastmod>2023-04-29</lastmod>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://perfect-lyrics.vercel.app/ya-devi-sarva-bhuteshu-lyrics/</loc>
+  <lastmod>2023-04-29</lastmod>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://perfect-lyrics.vercel.app/bar-bar-din-ye-aaye-lyrics/</loc>
+  <lastmod>2023-04-29</lastmod>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://perfect-lyrics.vercel.app/main-phir-bhi-tumko-chahunga-lyrics/</loc>
+  <lastmod>2023-04-29</lastmod>
+  <priority>0.5</priority>
+</url><url>
+  <loc>https://perfect-lyrics.vercel.app/dulhe-ka-sehra-lyrics/</loc>
+  <lastmod>2023-04-29</lastmod>
+  <priority>0.5</priority>
+</url><url>
+  <loc>https://perfect-lyrics.vercel.app/agar-tum-saath-ho-lyrics/</loc>
+  <lastmod>2023-04-29</lastmod>
+  <priority>0.5</priority>
+</url><url>
+  <loc>https://perfect-lyrics.vercel.app/o-mere-dil-ke-chain-lyrics/</loc>
+  <lastmod>2023-04-29</lastmod>
+  <priority>0.5</priority>
+</url>
 </urlset>`
 
   res.end(xml)

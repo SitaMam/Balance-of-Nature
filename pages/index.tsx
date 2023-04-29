@@ -16,7 +16,7 @@ const Home: NextPage = () => {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">GrowTools!</a>
+          Welcome to <a href="https://www.growtools.live/">GrowTools!</a>
         </h1>
 
         <p className={styles.description}>
@@ -25,9 +25,9 @@ const Home: NextPage = () => {
         </p>
 
         <div className={styles.grid}>
-          <a href="https://nextjs.org/docs" className={styles.card}>
-            <h2>Documentation &rarr;</h2>
-            <p>Find in-depth information about Next.js features and API.</p>
+          <a href="https://www.perfectlyrics.me/" className={styles.card}>
+            <h2>Perfect Lyrics Website &rarr;</h2>
+            <p>Vsisit For For More Lyrics</p>
           </a>
 
           <a href="https://nextjs.org/learn" className={styles.card}>

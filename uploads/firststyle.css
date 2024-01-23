@@ -325,3 +325,48 @@ nav#site-navigation {
     -webkit-animation-delay: 3s, 1.5s;
     animation-delay: 3s, 1.5s
 }
+.NR-Ads {
+    position: fixed;
+    bottom: 0px;
+    left: 0;
+    width: 100%;
+    min-height: 70px;
+    max-height: 90px;
+    padding: 5px 5px;
+    box-shadow: 0 -6px 18px 0 rgba(9, 32, 76, .1);
+    -webkit-transition: all .1s ease-in;
+    transition: all .1s ease-in;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #fefefe;
+    z-index: 20;
+}
+
+.NR-Ads-close {
+    width: 30px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 12px 0 0;
+    position: absolute;
+    right: 0;
+    top: -30px;
+    background-color: #fefefe;
+    box-shadow: 0 -6px 18px 0 rgba(9, 32, 76, .08);
+}
+
+.NR-Ads .NR-Ads-close svg {
+    width: 22px;
+    height: 22px;
+    fill: #000;
+}
+
+.NR-Ads .NR-Ads-content {
+    overflow: hidden;
+    display: block;
+    position: relative;
+    height: 70px;
+    width: 100%;
+}

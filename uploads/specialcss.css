@@ -347,11 +347,13 @@
                                                                                                                 	background: #ffe4c4;
                                                                                                                     	color: #d20000;
                                                                                                                         }
+
  #menu-header-1 a {
                 border: 2px solid #0077cc;
                     line-height: unset !important;
-                        border-radius: 5px;
+                        border-radius: 25px 05px 25px 05px ;
                             margin: 5px;
+	 		padding:12px;
                             }
 
                             #menu-header-1 a:hover {
@@ -361,8 +363,9 @@
                                     #menu-header a {
                                         border: 2px solid #0077cc;
                                             line-height: unset !important;
-                                                border-radius: 5px;
+                                                border-radius: 25px 05px 25px 05px ;
                                                     margin: 5px;
+																			padding:12px;
                                                     }
 
                                                     #menu-header a:hover {
